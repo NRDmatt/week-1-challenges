@@ -16,8 +16,8 @@
 * To make the link work properly on the websites interface, I first checked the differences of the code in the index.html file and noticed that the class="search-engine-optimization" did not have a ID assigned with it while the other links did. I assigned a ID to the link and it fixed the issue.
 
 ## Website Images
-![](2022-10-27-18-23-11.png)
-![](2022-10-27-18-23-31.png)
+![](2022-10-27-21-22-13.png)
+![](2022-10-27-21-22-33.png)
 
 ## Website URL
 file:///C:/Users/Tposin%20computer/Desktop/week%201%20BCS%20challenge/urban-octo-telegram/Develop/index.html#search-engine-optimization
